@@ -3,6 +3,9 @@
 youtube link
 https://youtu.be/XDTL5Fdo5P8?si=IfqBD126AE5f7Am-
 
+I was not able to make the images of the food to show because it kept making my crash app but it functions well now
+These are the changes that i made to my application 
+Everytime i put the logo the average cost doesn’t appear on the home page 
 
 What I changed / implemented
 1. App title updated to **Christoffel Cooks**.
