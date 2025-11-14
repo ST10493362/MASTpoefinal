@@ -60,5 +60,5 @@ assets/home.png — new logo for the Home screen (place it at ./assets/home.png)
     
 
 
-Run:
+
 
